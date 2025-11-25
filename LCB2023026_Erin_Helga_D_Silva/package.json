@@ -11,12 +11,19 @@
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "hardhat": "^2.22.19"
+    "hardhat": "^2.27.0"
   },
   "dependencies": {
     "dotenv": "^16.4.7",
+    "ethers": "^6.15.0",
     "next": "^15.2.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
-  }
+  },
+  "version": "1.0.0",
+  "description": "This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.",
+  "main": "hardhat.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
